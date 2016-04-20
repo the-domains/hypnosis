@@ -1,0 +1,28 @@
+name: Hypnosis
+favicon: null
+layout_spectrum: 0.325667611323297
+typography_spectrum: 0.7889129326213151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.13530936953611672
+  lightness: 0.6703274927567691
+  saturation: 0.8816408533602953
+  rhythmicContrast: 0.10985412658192217
+purpose: []
